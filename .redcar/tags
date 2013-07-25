@@ -1,0 +1,8 @@
+1374765864
+Application	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/config/application.rb	  class Application 
+ApplicationController	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/test/performance/browsing_test.rb	class BrowsingTest 
+MicroApp	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/config/application.rb	module MicroApp
+TestCase	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	/home/heitorfer/Desktop/SSRoR2013MLL/ssror13/micro_app/test/performance/browsing_test.rb	  def test_homepage
